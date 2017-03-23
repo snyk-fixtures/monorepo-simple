@@ -1,4 +1,4 @@
-# Simple Monorepo
+# Simple Monorepo with changed readme
 
 This repository contains a number of different projects, both at the root and in directories.
 
