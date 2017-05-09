@@ -6,4 +6,8 @@ ignore:
     - '* > haml@4.0.7':
         reason: None given
         expires: '2020-04-11T13:59:37.883Z'
+  SNYK-RUBY-HAML-20362:
+    - '* > haml@4.0.7':
+        reason: None given
+        expires: '2020-04-11T13:59:37.883Z'
 patch: {}
