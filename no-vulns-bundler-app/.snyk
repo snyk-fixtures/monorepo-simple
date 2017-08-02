@@ -18,4 +18,8 @@ ignore:
     - '* > rack-protection@1.5.3':
         reason: None given
         expires: '2020-04-11T13:59:37.883Z'
+  SNYK-RUBY-RACKPROTECTION-20395:
+    - '* > rack-protection@1.5.3':
+        reason: None given
+        expires: '2020-04-11T13:59:37.883Z'
 patch: {}
