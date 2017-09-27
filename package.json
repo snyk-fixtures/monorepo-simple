@@ -9,7 +9,14 @@
   },
   "dependencies": {
     "qs": "0.0.6",
-    "node-uuid": "1.4.0"
-  }
+    "node-uuid": "1.4.0",
+    "express": "4.15.5",
+    "snyk": "^1.41.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
 
