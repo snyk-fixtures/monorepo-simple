@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "qs": "0.0.6",
-    "node-uuid": "1.4.0"
-  }
+    "node-uuid": "1.4.0",
+    "snyk": "^1.46.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
 
