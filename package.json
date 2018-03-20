@@ -9,7 +9,15 @@
   },
   "dependencies": {
     "qs": "0.0.6",
-    "node-uuid": "1.4.0"
+    "node-uuid": "1.4.0",
+    "errorhandler": "1.4.3",
+    "express": "4.15.5",
+    "humanize-ms": "1.0.2",
+    "marked": "0.3.9",
+    "moment": "2.15.2",
+    "mongoose": "4.11.14",
+    "ms": "2.0.0",
+    "st": "1.1.0"
   }
 }
 
