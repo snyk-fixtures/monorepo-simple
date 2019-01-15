@@ -1,15 +1,20 @@
 {
-  "name": "shallow-goof",
-  "version": "0.0.1",
-  "description": "A vulnerable demo application",
-  "homepage": "https://snyk.io/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Snyk/shallow-goof"
+  "name": "out-of-sync-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "qs": "0.0.6",
-    "node-uuid": "1.4.0"
+    "body-parser": "1.18.3",
+    "debug": "4.1.0",
+    "snyk": "*",
+    "lodash": "4.17.11",
+    "request": "^2.4.1",
+    "chalk": "~2.4.0",
+    "react": ">=15.6.1 <16.3.2"
   }
 }
-
