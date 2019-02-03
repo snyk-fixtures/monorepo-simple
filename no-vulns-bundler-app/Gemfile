@@ -1,5 +1,5 @@
 source :rubygems
 
-gem "sinatra"
+gem "sinatra", ">= 2.0.2"
 gem "haml"
 gem "httparty"
